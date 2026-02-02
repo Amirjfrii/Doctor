@@ -1,6 +1,6 @@
 # config.py
 
-#BOT_TOKEN = "2200260147:AAF1XcWJw0I95W8lR1WD4WWAQ7qEYHpHTr4/test"  # توکن ربات خود را اینجا قرار دهید
+#BOT_TOKEN = "2200260147:AAFKJIEP-pVgnVm69qyjWXCfruTb2jd-URk/test"  # توکن ربات خود را اینجا قرار دهید
 ADMIN_IDS = [2200903945]  # آی‌دی عددی ادمین‌ها
 
 # تنظیمات Telethon (بعداً برای افزودن اکانت استفاده می‌شود)
@@ -48,3 +48,4 @@ REPORT_REASONS_CHAT_DATA = {
     "other": {"display": "سایر دلایل (Other)", "obj": types.InputReportReasonOther()},
 }
 REPORT_REASON_CALLBACK_PREFIX_CHAT = "rep_chat_rsn_"
+
